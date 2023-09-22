@@ -6,13 +6,12 @@ export const environment = {
   production: false
 };
 const firebaseConfig = {
-  apiKey: "AIzaSyCk9CTpQXvOq4bb_m_MG2IVaPOf71PT7vY",
-  authDomain: "ionictest-dc180.firebaseapp.com",
-  projectId: "ionictest-dc180",
-  storageBucket: "ionictest-dc180.appspot.com",
-  messagingSenderId: "625666752683",
-  appId: "1:625666752683:web:0271f028a8e1ec7e6df7ee",
-  measurementId: "G-F5193S5NCB"
+  apiKey: "AIzaSyCjx3Mvi4S6mAa-RVrs-97d6GQoMpnkf_Y",
+  authDomain: "iontest-34079.firebaseapp.com",
+  projectId: "iontest-34079",
+  storageBucket: "iontest-34079.appspot.com",
+  messagingSenderId: "873093732290",
+  appId: "1:873093732290:web:1716dc087d2dd352c8685b"
 };
 /*
  * For easier debugging in development mode, you can import the following file
